@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$USER_HOME$/.pyenv/shims/black" />
+    <option name="sdkUUID" value="3eb0d24d-73c3-4404-8968-66a31a43d3ba" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="clarifai" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
+</project>
